@@ -1,0 +1,2 @@
+is_valid:true
+ns:http://specs.openid.net/auth/2.0
